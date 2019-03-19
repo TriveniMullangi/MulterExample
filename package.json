@@ -1,0 +1,28 @@
+{
+  "name": "MulterExample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "excelToJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TriveniMullangi/MulterExample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TriveniMullangi/MulterExample/issues"
+  },
+  "homepage": "https://github.com/TriveniMullangi/MulterExample#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "multer": "^1.4.1",
+    "xls-to-json": "^0.5.1",
+    "xls-to-json-lc": "^0.3.4",
+    "xlsx-to-json": "^0.3.0",
+    "xlsx-to-json-lc": "^0.5.0"
+  }
+}
